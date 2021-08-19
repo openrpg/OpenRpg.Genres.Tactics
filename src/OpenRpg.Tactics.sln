@@ -10,6 +10,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2CD105CA-F3FA-4465-9FAF-3FC2A7ABE28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2CD105CA-F3FA-4465-9FAF-3FC2A7ABE28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD105CA-F3FA-4465-9FAF-3FC2A7ABE28A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD105CA-F3FA-4465-9FAF-3FC2A7ABE28A}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
