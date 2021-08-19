@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenRpg.Tactics", "OpenRpg.Tactics\OpenRpg.Tactics.csproj", "{2CD105CA-F3FA-4465-9FAF-3FC2A7ABE28A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD105CA-F3FA-4465-9FAF-3FC2A7ABE28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD105CA-F3FA-4465-9FAF-3FC2A7ABE28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
