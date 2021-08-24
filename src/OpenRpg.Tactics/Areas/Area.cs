@@ -1,4 +1,4 @@
-﻿namespace OpenRpg.Tactics.Grids
+﻿namespace OpenRpg.Tactics.Areas
 {
     public class Area
     {

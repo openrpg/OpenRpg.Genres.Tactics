@@ -1,6 +1,6 @@
 ﻿using OpenRpg.Tactics.Types;
 
-namespace OpenRpg.Tactics.Grids
+namespace OpenRpg.Tactics.Areas
 {
     public class AreaBuilder
     {

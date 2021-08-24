@@ -1,4 +1,4 @@
-﻿using OpenRpg.Tactics.Grids;
+﻿using OpenRpg.Tactics.Areas;
 using OpenRpg.Tactics.Types;
 
 namespace OpenRpg.Tactics.Extensions
