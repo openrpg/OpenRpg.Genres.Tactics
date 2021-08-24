@@ -12,11 +12,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="OpenRpg.Combat" Version="0.17.139" />
-      <PackageReference Include="OpenRpg.Core" Version="0.17.139" />
-      <PackageReference Include="OpenRpg.CurveFunctions" Version="0.17.139" />
-      <PackageReference Include="OpenRpg.Data" Version="0.17.139" />
-      <PackageReference Include="OpenRpg.Items" Version="0.17.139" />
+      <PackageReference Include="OpenRpg.Combat" Version="0.18.143" />
+      <PackageReference Include="OpenRpg.Core" Version="0.18.143" />
+      <PackageReference Include="OpenRpg.CurveFunctions" Version="0.18.143" />
+      <PackageReference Include="OpenRpg.Data" Version="0.18.143" />
+      <PackageReference Include="OpenRpg.Genres" Version="0.20.5" />
+      <PackageReference Include="OpenRpg.Items" Version="0.18.143" />
       <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
     </ItemGroup>
 

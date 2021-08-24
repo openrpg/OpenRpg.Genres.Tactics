@@ -1,11 +1,11 @@
 ﻿using System.Numerics;
 using OpenRpg.Combat.Effects;
-using OpenRpg.Core.Stats;
+using OpenRpg.Genres.Characters;
 using OpenRpg.Tactics.Abilities;
 
 namespace OpenRpg.Tactics.Units
 {
-    public interface IUnit : IHasActiveEffects, IHasAbilities, IHasStats
+    public interface IUnit : ICharacter, IHasActiveEffects, IHasAbilities
     {
         Vector2 Position { get; set; }
         int MovementRange { get; set; }
