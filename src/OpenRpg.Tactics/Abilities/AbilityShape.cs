@@ -2,7 +2,7 @@ using System;
 
 namespace OpenRpg.Tactics.Abilities
 {
-    public readonly struct AbilityShape : IEquatable<AbilityShape>
+    public struct AbilityShape : IEquatable<AbilityShape>
     {
         /// <summary>
         /// This indicates the source target point, i.e where a spell would be cast
