@@ -14,9 +14,9 @@ dotnet_csproj:
   file_version: '{version}'
   informational_version: '{version}'
 before_build:
-- cmd: nuget restore src/OpenRpg.Tactics.sln
+- cmd: nuget restore src/OpenRpg.Genres.Tactics.sln
 build:
-  project: src/OpenRpg.Tactics.sln
+  project: src/OpenRpg.Genres.Tactics.sln
   publish_nuget: true
   verbosity: minimal
 artifacts:
