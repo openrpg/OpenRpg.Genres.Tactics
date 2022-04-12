@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <Version>0.0.0</Version>
+        <TargetFrameworks>net472;netstandard2.0</TargetFrameworks>
+        <Title>OpenRpg.Tactics</Title>
+        <Authors>Grofit (LP)</Authors>
+        <PackageLicenseUrl>https://github.com/openrpg/OpenRpg.Tactics/blob/master/LICENSE</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/openrpg/OpenRpg.Tactics</PackageProjectUrl>
+        <Description>A set of simple helpers related to tactics style game scenarios using OpenRpg</Description>
+        <PackageTags>rpg game-development xna monogame unity godot</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="OpenRpg.Combat" Version="0.19.158" />
+      <PackageReference Include="OpenRpg.Core" Version="0.19.158" />
+      <PackageReference Include="OpenRpg.CurveFunctions" Version="0.19.158" />
+      <PackageReference Include="OpenRpg.Data" Version="0.19.158" />
+      <PackageReference Include="OpenRpg.Genres" Version="0.21.16" />
+      <PackageReference Include="OpenRpg.Items" Version="0.19.158" />
+      <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
+    </ItemGroup>
+
+</Project>

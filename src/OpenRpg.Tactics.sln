@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenRpg.Tactics", "OpenRpg.Tactics\OpenRpg.Tactics.csproj", "{2CD105CA-F3FA-4465-9FAF-3FC2A7ABE28A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenRpg.Genres.Tactics", "OpenRpg.Genres.Tactics\OpenRpg.Genres.Tactics.csproj", "{2CD105CA-F3FA-4465-9FAF-3FC2A7ABE28A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
