@@ -2,7 +2,7 @@
 
 Provides a basic implementation of models/logic for tactics style games.
 
-![](https://i.imgur.com/yaEaAn4.gif)
+![](https://imgur.com/NZ1HnuI.gif)
 > This was a prototype using the system in Unity based on the BK9K web game, which uses the tactics lib.
 
 ## How To Use It?
