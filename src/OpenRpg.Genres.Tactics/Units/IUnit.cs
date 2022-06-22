@@ -1,5 +1,6 @@
 ﻿using System.Numerics;
 using OpenRpg.Combat.Effects;
+using OpenRpg.Core.Stats.Variables;
 using OpenRpg.Genres.Characters;
 using OpenRpg.Genres.Tactics.Abilities;
 

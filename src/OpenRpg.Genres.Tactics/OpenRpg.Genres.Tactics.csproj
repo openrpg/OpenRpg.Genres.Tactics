@@ -2,22 +2,23 @@
 
     <PropertyGroup>
         <Version>0.0.0</Version>
-        <TargetFrameworks>net472;netstandard2.0</TargetFrameworks>
         <Title>OpenRpg.Genres.Tactics</Title>
         <Authors>Grofit (LP)</Authors>
         <PackageLicenseUrl>https://github.com/openrpg/OpenRpg.Genres.Tactics/blob/master/LICENSE</PackageLicenseUrl>
         <PackageProjectUrl>https://github.com/openrpg/OpenRpg.Genres.Tactics</PackageProjectUrl>
         <Description>A set of simple helpers related to tactics style game scenarios using OpenRpg</Description>
         <PackageTags>rpg game-development xna monogame unity godot</PackageTags>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <LangVersion>8</LangVersion>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="OpenRpg.Combat" Version="0.19.158" />
-      <PackageReference Include="OpenRpg.Core" Version="0.19.158" />
-      <PackageReference Include="OpenRpg.CurveFunctions" Version="0.19.158" />
-      <PackageReference Include="OpenRpg.Data" Version="0.19.158" />
-      <PackageReference Include="OpenRpg.Genres" Version="0.21.16" />
-      <PackageReference Include="OpenRpg.Items" Version="0.19.158" />
+      <PackageReference Include="OpenRpg.Combat" Version="0.23.178" />
+      <PackageReference Include="OpenRpg.Core" Version="0.23.178" />
+      <PackageReference Include="OpenRpg.CurveFunctions" Version="0.23.178" />
+      <PackageReference Include="OpenRpg.Data" Version="0.23.178" />
+      <PackageReference Include="OpenRpg.Genres" Version="0.23.23" />
+      <PackageReference Include="OpenRpg.Items" Version="0.23.178" />
       <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
     </ItemGroup>
 
