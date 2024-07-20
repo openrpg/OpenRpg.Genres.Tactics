@@ -1,4 +1,4 @@
-using OpenRpg.Genres.Variables;
+using OpenRpg.Genres.Types;
 
 namespace OpenRpg.Genres.Tactics.Types
 {
